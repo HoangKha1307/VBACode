@@ -19,9 +19,9 @@ This is a VBA (Visual Basic for Applications) project developed to **automate pr
 
 ## Project Structure
 
-- **Module1.bas**: Contains the main functions for data processing.
-- **Form1.frm**: The user interface (if any) for data entry or displaying results.
-- **Readme.md**: Instructions for use and project description.
+- **Functions Folder**: Contains the main functions for data processing.
+- **Automate Folder**: Contains VBA coding to automate tasks.
+
 
 ## Thank you for reviewing the project!
 
@@ -50,9 +50,8 @@ Feel free to contribute or report issues if you encounter any problems. All cont
 
 ## Cấu trúc dự án
 
-- **Module1.bas**: Chứa các hàm chính để xử lý dữ liệu.
-- **Form1.frm**: Giao diện người dùng (nếu có) để nhập liệu hoặc hiển thị kết quả.
-- **Readme.md**: Hướng dẫn sử dụng và mô tả dự án.
+- **Thư mục Functions**: Chứa các chức năng chính để xử lý dữ liệu.
+- **Thư mục Automate**: Chứa mã hóa VBA để tự động hóa các tác vụ.
 
 ## Cảm ơn bạn đã xem qua dự án!
 
