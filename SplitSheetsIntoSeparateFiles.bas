@@ -1,3 +1,5 @@
+' The SplitSheetsIntoSeparateFiles subroutine is designed to automate the process of saving each sheet in an Excel workbook as a separate file. 
+' This is useful in scenarios where you want to break up a large workbook into smaller, individual files for sharing, backup, or further processing.
 Sub SplitSheetsIntoSeparateFiles()
     ' Declare variables for the current workbook, new workbook, and file paths
     Dim ws As Worksheet
