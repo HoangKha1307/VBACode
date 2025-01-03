@@ -1,4 +1,6 @@
-' The MergeDataIntoSample function automates the process of merging data from a "data" worksheet into a pre-existing "Sample" worksheet and creates a new workbook containing multiple sheets. Each new sheet is based on a row in the "data" worksheet, with placeholders in the "Sample" worksheet replaced by corresponding values from the "data" worksheet. The function also handles images by inserting them into the new sheets if the path is provided. The new workbook is saved with a timestamped filename.
+' The MergeDataIntoSample function automates the process of merging data from a "data" worksheet into a pre-existing "Sample" worksheet and creates a new workbook containing multiple sheets. 
+' Each new sheet is based on a row in the "data" worksheet, with placeholders in the "Sample" worksheet replaced by corresponding values from the "data" worksheet. 
+' The function also handles images by inserting them into the new sheets if the path is provided. The new workbook is saved with a timestamped filename.
 Sub MergeDataIntoSample()
     ' Declare worksheets for data and sample, and variables for new workbook, ranges, and other data
     Dim wsData As Worksheet
