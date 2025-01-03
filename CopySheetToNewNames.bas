@@ -1,3 +1,5 @@
+' This VBA code is designed to automate the process of copying a worksheet and renaming the copied sheets based on a list of names provided by the user. 
+' Additionally, it deletes unnecessary rows in the copied sheets, leaving only the row corresponding to the selected name.
 Sub CopySheetToNewNames()
     Dim wsSource As Worksheet
     Dim wsNew As Worksheet
